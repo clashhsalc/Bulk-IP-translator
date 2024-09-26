@@ -45,7 +45,7 @@ A powerful tool for analyzing bulk IP addresses into detailed information.
    - Drag and drop an Excel (.xlsx) or CSV file containing IP addresses
    - Select the desired output format (CSV or JSON)
    - Set the number of max workers for multithreading
-   - Click "Save" to apply the max workers setting (35 is recommended)
+   - Click "Save" to apply the max workers setting (60 is recommended)
 
 3. Once you drop a file, the application will start processing the IP addresses
 4. Monitor the progress bar
